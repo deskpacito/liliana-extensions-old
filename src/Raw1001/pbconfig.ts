@@ -4,9 +4,9 @@
 import { ContentRating, SourceIntents, type ExtensionInfo } from "@paperback/types";
 
 export default {
-  name: "Content Template",
-  description: "Template that shows the functionality of content providing extensions.",
-  version: "1.0.0-alpha.3",
+  name: "Raw1001",
+  description: "Extension for raw1001.net",
+  version: "1.0.0",
   icon: "icon.png",
   language: "en",
   contentRating: ContentRating.EVERYONE,
@@ -18,9 +18,9 @@ export default {
   badges: [],
   developers: [
     {
-      name: "Celarye",
-      website: "https://celarye.dev",
-      github: "https://github.com/Celarye",
+      name: "desupacito",
+      website: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      github: "https://github.com/deskpacito",
     },
   ],
 } satisfies ExtensionInfo;
