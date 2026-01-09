@@ -8,7 +8,7 @@ export default {
   description: "Extension for raw1001.net",
   version: "1.0.0",
   icon: "icon.png",
-  language: "en",
+  language: "🇯🇵",
   contentRating: ContentRating.EVERYONE,
   capabilities:
     SourceIntents.SETTINGS_FORM_PROVIDING |

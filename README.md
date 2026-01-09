@@ -1,6 +1,9 @@
-# Template Extensions
+# Liliana Extensions
 
-Paperback extensions designed as templates to help developers get started quickly.
+Paperback extensions designed for Liliana.
+
+> [!IMPORTANT]
+> `content.json` is a sample output and not representative.
 
 This includes the following:
 
