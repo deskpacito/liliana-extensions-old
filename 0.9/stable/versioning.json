@@ -1,12 +1,12 @@
 {
-  "buildTime": "2026-01-09T21:08:49.942Z",
+  "buildTime": "2026-01-09T21:10:51.331Z",
   "builtWith": {
     "toolchain": "1.0.0-alpha.57",
     "types": "1.0.0-alpha.57"
   },
   "repository": {
-    "name": "Template Extensions (0.9)",
-    "description": "Paperback extensions designed as templates to help developers get started quickly. Maintained by Inkdex."
+    "name": "Liliana Extensions (0.9)",
+    "description": "Generic extension used for any sources that are consuming Liliana."
   },
   "sources": [
     {
