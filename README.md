@@ -1,4 +1,6 @@
-# Liliana Extensions
+# Liliana Extensions - Moved to Inkdex
+
+If you're reading this this is before the PR was made
 
 Paperback extensions designed for Liliana.
 
