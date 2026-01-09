@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-01-09T21:58:39.967Z",
+  "buildTime": "2026-01-09T22:00:32.060Z",
   "builtWith": {
     "toolchain": "1.0.0-alpha.57",
     "types": "1.0.0-alpha.57"
@@ -12,7 +12,7 @@
     {
       "name": "ManhuaPlusORG",
       "description": "Extension for manhuaplus.org",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "icon": "icon.png",
       "language": "🇬🇧",
       "contentRating": "SAFE",
@@ -30,7 +30,7 @@
     {
       "name": "Raw1001",
       "description": "Extension for raw1001.net",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "icon": "icon.png",
       "language": "🇯🇵",
       "contentRating": "SAFE",
